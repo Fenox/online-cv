@@ -3,21 +3,25 @@ intro: "You can list your side projects or open source libraries in this section
 projects:
   - project:
     title: HRV-Band
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    link: "https://play.google.com/store/apps/details?id=hrv.band.aurora"
+    tagline: "Android app which analyzes heartbeat-interval data and calculates parameters like stresslevel, RMSSD, SD1, SD2 and more."
   - project:
     title: Approximate Computing in generalized minimal residual methods
     link: "https://github.com/Fenox/ausarbeitung_projektpraktikum"
     tagline: "A framework to speedup generalized minimal residual methods by using approximate methods in the preconditioner."
   - project:
-    title: Tempo
+    title: Fraunhofer blätter, 
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
   - project:
-    title: Atom
+    title: Fraunhofer datenversenden
     link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
   - project:
-    title: Delta
+    title: Joachim
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - project:
+    title: Generating Zeiss Floors
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"

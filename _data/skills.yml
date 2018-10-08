@@ -1,4 +1,4 @@
-- skill:
+- skill: Test
   name: C#
   level: 80%
 - skill:
@@ -9,4 +9,10 @@
   level: 40%
   skill:
   name: protege (Bachelorthesis)
+  level: 30%
+  skill:
+  name: MySql
+  level: 40%
+  skill:
+  name: MVVM
   level: 30%
