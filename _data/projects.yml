@@ -2,13 +2,13 @@ intro: "You can list your side projects or open source libraries in this section
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
+    title: HRV-Band
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Approximate Computing in generalized minimal residual methods
+    link: "https://github.com/Fenox/ausarbeitung_projektpraktikum"
+    tagline: "A framework to speedup generalized minimal residual methods by using approximate methods in the preconditioner."
   - project:
     title: Tempo
     link: "#"
