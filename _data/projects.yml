@@ -1,5 +1,3 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
     title: HRV-Band (Java, Git)
@@ -11,7 +9,7 @@ projects:
     tagline: "A framework to speedup generalized minimal residual methods by using approximate methods in the preconditioner."
   - project:
     title: Distinguishing leaves by their reflective properties (Matlab)
-    link: ""
+    link: "#"
     tagline: "Finding correlation between the age, type of a leaf and its reflective properties in the electromagnetic spectrum ranging from ultraviolet to infrared"
   - project:
     title: Transferring huge amounts of data (C#, MVVM)
