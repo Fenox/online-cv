@@ -13,6 +13,13 @@
   details: "HRV-Band is an app that analyzes ones heartbeat-interval data. The app was developed
   in a small team and calculates parameters like stresslevel, RMSSD, SD1, SD2 and more."
 - experience:
+  role: Contestand
+  time: 2016
+  company: SAP
+  details: "Took part in the SAP Coding Challange in Berlin, goal was to guess the location
+  of a person writing a post on Twitter. Provided was a SAP-Hana Database with old tweets and
+  corresponding location."
+- experience:
   role: Developer
   time: 2015 - 2016
   company: Fraunhofer IOSB, Karlsruhe
@@ -20,10 +27,3 @@
   reflective properties in the in a range from ultraviolet to infrared electromagnetic
    radioation. Therefore we had multiple hyperspectral cameras and analyzed the result
   with an existing framework."
-- experience:
-  role: Contestand
-  time: 2016
-  company: SAP
-  details: "Took part in the SAP Coding Challange in Berlin, goal was to guess the location
-  of a person writing a post on Twitter. Provided was a SAP-Hana Database with old tweets and
-  corresponding location.
