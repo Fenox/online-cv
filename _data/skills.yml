@@ -8,11 +8,11 @@
   name: C++
   level: 40%
 - skill:
-  name: protege (Bachelorthesis)
-  level: 30%
-- skill:
   name: MySql
   level: 40%
 - skill:
   name: MVVM
   level: 30%
+- skill:
+  name: protege (Bachelorthesis)
+  level: 20%
