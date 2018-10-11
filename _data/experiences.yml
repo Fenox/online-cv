@@ -14,7 +14,7 @@
   in a small team and calculates parameters like stresslevel, RMSSD, SD1, SD2 and more."
 - experience:
   role: Developer
-  time: 2015 - 2016
+  time: 2014 - 2015
   company: Fraunhofer IOSB, Karlsruhe
   details: "My Role was to find correlation between the age, type of a leaf and its 
   reflective properties in the in a range from ultraviolet to infrared electromagnetic
@@ -27,4 +27,3 @@
   details: "Took part in the SAP Coding Challange in Berlin, goal was to guess the location
   of a person writing a post on Twitter. Provided was a SAP-Hana Database with old tweets and
   corresponding location."
-  
