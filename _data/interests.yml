@@ -1,9 +1,12 @@
 - interest:
+  item: Tennis
+  link: http://www.kitsc.de/tennis-herren.html
+- interest:
   item: Robotics
   link:
 - interest:
   item: Machine Learning
   link:
 - interest:
-  item: Tennis
-  link: http://www.kitsc.de/tennis-herren.html
+  item: Software Engineering
+  link:
