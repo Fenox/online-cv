@@ -6,8 +6,9 @@ about: False # set to False or comment line if you want to remove the "How to us
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles-1
 #style: styles-2
-style: styles-3
+#style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
@@ -16,10 +17,10 @@ style: styles-3
 #Profile information
 name: Julian Martin
 tagline: Student (Computer Science)
-summary: Student at KIT, interested in robotics, machine learning and sports.
+summary: StudentComputer Science student currently writing my Master's thesis on fault detection in production machines. Skilled in C#, Matlab and machine learning.
 
 #sidebar links
-email: uaelp@student.kit.edu
+email: julian.martin@pbum.de
 github: fenox
 #Update all the sections by editing the files inside _data folder.
 

@@ -1,29 +1,35 @@
 - experience:
   role: Software Engineer for Robotics
-  time: 2016 - 2018
+  time: 4/2016 - 9/2016
   company: BLS Lasertechnology, Grafenau
   details: "Multiple tasks were provided, the goal was to support machine operators in 
   programming their machines. Therefore a framework was built which translates a machine
-  specific G-Code to other formats. Furthermore the framework was able to visualize machine
-  tasks and provided tools to program machines directly."
+  specific G-Code to other formats. Furthermore the framework was able to visualize trajectories
+   and provided tools to program machines directly."
 - experience:
-  role: Developer
+  role: Software Engineer
   time: 2016 - 2018
   company: HRV-Band (not a company)
-  details: "HRV-Band is an app that analyzes ones heartbeat-interval data. The app was developed
-  in a small team and calculates parameters like stresslevel, RMSSD, SD1, SD2 and more."
+  details: "Conceptualize and coordinate the implementation of a stress measurement application.
+  HRV-Band is an app that analyzes heartbeat-interval data. The app was developed
+  in a small team of two and calculates parameters like stress level, RMSSD, SD1, SD2 and more."
 - experience:
-  role: Developer
-  time: 2014 - 2015
+  role: Software Engineer
+  time: 2/2015 - 8/2015
+  company: Fraunhofer IOSB, Karlsruhe
+  details: "Implementation of an application for the network transfer of hyperspectral image data."
+- experience:
+  role: Data Scientist
+  time: 9/2014 - 2/2015
   company: Fraunhofer IOSB, Karlsruhe
   details: "My Role was to find correlation between the age, type of a leaf and its 
   reflective properties in the in a range from ultraviolet to infrared electromagnetic
-   radioation. Therefore we had multiple hyperspectral cameras and analyzed the result
-  with an existing framework."
+  radioation. Therefore, multiple hyperspectral cameras were provided the resulting images
+  were analyzed using a existing library."
 - experience:
   role: Contestant
   time: 2012
   company: SAP
   details: "Took part in the SAP Coding Challange in Berlin, goal was to guess the location
-  of a person writing a post on Twitter. Provided was a SAP-Hana Database with old tweets and
-  corresponding location."
+  of a person writing a post on Twitter without using metadata. Provided was a SAP-Hana Database
+  with old tweets and corresponding location."
