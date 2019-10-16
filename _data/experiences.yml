@@ -1,4 +1,11 @@
 - experience:
+  role: Software Engineer
+  time: 2016 - 2018
+  company: HRV-Band (not a company)
+  details: "Conceptualize and coordinate the implementation of a stress measurement application.
+  HRV-Band is an app that analyzes heartbeat-interval data. The app was developed
+  in a small team of two and calculates parameters like stress level, RMSSD, SD1, SD2 and more."
+- experience:
   role: Software Engineer for Robotics
   time: 4/2016 - 9/2016
   company: BLS Lasertechnology, Grafenau
@@ -6,13 +13,6 @@
   programming their machines. Therefore a framework was built which translates a machine
   specific G-Code to other formats. Furthermore the framework was able to visualize trajectories
    and provided tools to program machines directly."
-- experience:
-  role: Software Engineer
-  time: 2016 - 2018
-  company: HRV-Band (not a company)
-  details: "Conceptualize and coordinate the implementation of a stress measurement application.
-  HRV-Band is an app that analyzes heartbeat-interval data. The app was developed
-  in a small team of two and calculates parameters like stress level, RMSSD, SD1, SD2 and more."
 - experience:
   role: Software Engineer
   time: 2/2015 - 8/2015
