@@ -23,7 +23,8 @@ pic: profile.jpg
 #sidebar links
 email: julian.martin@pbum.de
 github: fenox
-linkedin: (LinkedIn)[https://www.linkedin.com/in/julian-martin-28011a104/]
+linkedin: LinkedIn
+link: https://www.linkedin.com/in/julian-martin-28011a104/
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
