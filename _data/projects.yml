@@ -2,7 +2,7 @@ projects:
   - project:
     title: HRV-Band (Java, Git)
     link: "https://play.google.com/store/apps/details?id=hrv.band.aurora"
-    tagline: "Android app which analyzes heartbeat-interval data and calculates parameters like stresslevel, RMSSD, SD1, SD2 and more."
+    tagline: "Android app, which analyzes heartbeat-interval data and calculates parameters like stress level, RMSSD, SD1, SD2, and more."
   - project:
     title: Supporting Machine Operators (C#, MySql)
     link: "https://github.com/Fenox/LSC1ProgrammingTool"
@@ -14,8 +14,8 @@ projects:
   - project:
     title: Development and Implementation of a Domain Specific Intermediary Language for CAD based Design of Industrial Image Processing Systems
     link: ""
-    tagline: "Ontology based Intermediate language describing measurement tasks. (Bachelor's Thesis)"
+    tagline: "Ontology-based intermediate language describing measurement tasks. (Bachelor's Thesis)"
   - project:
     title: Face Pi
     link: "https://github.com/thomcz/face-pi"
-    tagline: Application that takes a picture of a person, compares it via the Microsoft face api and if not recognized alarms the user over the mobile phone (Winner of 2016s Nikolaus Hackaton)
+    tagline: "An application that takes a picture of a person compares it via the Microsoft face API and if not recognized alarms the user over the mobile phone (Winner of 2016s Nikolaus Hackaton)"

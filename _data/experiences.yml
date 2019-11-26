@@ -4,15 +4,14 @@
   company: HRV-Band
   details: "Conceptualize and coordinate the implementation of a stress measurement application.
   HRV-Band is an app that analyzes heartbeat-interval data. The app was developed
-  in a small team of two and calculates parameters like stress level, RMSSD, SD1, SD2 and more."
+  in a small team of two and calculates parameters like stress level, RMSSD, SD1, SD2, and more."
 - experience:
   role: Software Engineer for Robotics
   time: 4/2016 - 9/2016
   company: BLS Lasertechnology, Grafenau
-  details: "Multiple tasks were provided, the goal was to support machine operators in 
-  programming their machines. Therefore a framework was built which translates a machine
-  specific G-Code to other formats. Furthermore the framework was able to visualize trajectories
-   and provided tools to program machines directly."
+  details: "Multiple tasks had to be tackled; the goal was to support machine operators in 
+  programming their machines. Therefore a framework was built, which translates a machine-specific 
+  G-Code to other formats, visualizes trajectories, and provides tools to program machinery."
 - experience:
   role: Software Engineer
   time: 2/2015 - 8/2015
@@ -22,14 +21,13 @@
   role: Data Scientist
   time: 9/2014 - 2/2015
   company: Fraunhofer IOSB, Karlsruhe
-  details: "My Role was to find correlation between the age, type of a leaf and its 
-  reflective properties in the in a range from ultraviolet to infrared electromagnetic
-  radioation. Therefore, multiple hyperspectral cameras were provided the resulting images
-  were analyzed using a existing library."
+  details: "Exploration of a possible correlation between age, type, and reflective properties in leaves. 
+  Experiments were done from ultraviolet to infrared electromagnetic radiation.
+  A strong relationship between age and reflective property could be prevalent due to the loss of water."
 - experience:
   role: Contestant
   time: 2012
   company: SAP
-  details: "Took part in the SAP Coding Challange in Berlin, goal was to guess the location
-  of a person writing a post on Twitter without using metadata. Provided was a SAP-Hana Database
-  with old tweets and corresponding location."
+  details: "Participated in the SAP Coding Challange in Berlin; the goal was to guess the location of
+  a person writing a post on Twitter without using metadata. Provided was an SAP-Hana Database with 
+  old tweets and corresponding locations."
