@@ -28,6 +28,6 @@
   role: Contestant
   time: 2012
   company: SAP
-  details: "Participated in the SAP Coding Challange in Berlin; the goal was to guess the location of
+  details: "Participated in the SAP Coding Challenge in Berlin; the goal was to guess the location of
   a person writing a post on Twitter without using metadata. Provided was an SAP-Hana Database with 
   old tweets and corresponding locations."
